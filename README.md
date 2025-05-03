@@ -1,2 +1,2 @@
-# MBA_Senac_PLN_Analise_de_Sentimentos
+# MBA Ciência de Dados e IA - Senac PE - PLN - Analise de Sentimentos
 Atividade da cadeira de Processamento de Linguagem Natural da pós graduação do Senac PE - MBA em Ciência de Dados e Inteligência Artificial
